@@ -27,6 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiskumar-S&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sathiskumar_243214?theme=dark&font=Noto%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sathisprogrammer?theme=dark&font=Ubuntu)
 
 [![Sathis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SathisKumar-S&bg_color=30272c&color=928e26&line=80c43b&point=d8cfcf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
